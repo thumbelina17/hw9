@@ -8,7 +8,7 @@
 
 Мной было использовано регулярное выражение \n\r, которое я потом заменила на \0, и удалила все пустые строки.
 
-![](https://github.com/thumbelina17/hw9/blob/master/Ф1.jpg?raw=true)
+![](https://github.com/thumbelina17/hw9/blob/master/F3.jpg?raw=true)
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-![](https://github.com/thumbelina17/hw9/blob/master/Ф3.jpg?raw=true)
+![](https://github.com/thumbelina17/hw9/blob/master/F2.jpg?raw=true)
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-![](https://github.com/thumbelina17/hw9/blob/master/Ф1.jpg?raw=true)
+![](https://github.com/thumbelina17/hw9/blob/master/F1.jpg?raw=true)
 
 
 
